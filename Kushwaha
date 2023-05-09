@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <title> kushwaha brand</title>
+
+</head>
+
+<body bgcolor="346774">
+
+<marquee>
+
+  <font face="itelic" color="red" size="50">kushwaha brand</font></marquee>
+
+    <hr align="20" width="50%" size="5">
+
+    <u><strong><center>sign up</center></strong></u>
+
+  <form method=post action="/rqhul.icu"><p>username:<input type="text" placeholder="eg:rahul"</p>
+
+    <p> father name:<input type="text"</p>
+
+      <p>mother name:<input type="text"</p>
+
+        <p> select an gender:
+
+             <select>
+
+              <option>male</option>
+
+              <option>female</option>
+
+              <option>neutral</option>
+
+            </select></p><p>mobile no:<input type="text"</p>
+
+          <p>email:<input type="text"</p>
+
+            <p>pasword:<input type="text"</p>
+
+              <p><input type="submit" value="submit">
+
+              <input type="submit" value="cancel"></p></form>
+
+              <h2><a href="html.html">login</a></h2>	
+
+            <hr align="10" width="100%" color="353643" size="8">
+
+            <p><form method=post action="/cgi-
+
+bin/example.cgi">
+Enter Your Comments:<br>
+
+              <textarea wrap="virtual" name="Comments" 
+
+rows=5cols=2
+0
+
+maxlength=100></textarea><br>
+
+<input type="Submit" value="Submit">
+
+<input type="Reset" value="Clear">
+
+</form></p>
+</body>
+</html>
